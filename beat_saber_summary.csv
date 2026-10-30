@@ -1,0 +1,4 @@
+recording_id,num_frames,difficulty,mode,note_count,bomb_count,wall_count,good_cut_float_len,good_cut_other_len,bad_cut_float_len,miss_float_len,bomb_cut_float_len
+ee18532a-fdda-4c06-a1a2-a75adbad9eff,8515,Expert,Standard,431,0,20,402,402,14,15,0
+e9edee4c-a344-4692-8224-f5a86fbecb6c,11168,Expert,Standard,,,,702,702,5,3,0
+ae9e2025-d5f6-4d04-aa24-79ca3abcaff3,1700,3,Standard,29,0,26,29,29,0,0,0
